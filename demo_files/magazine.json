@@ -1,0 +1,26 @@
+﻿{
+  "magazine": {
+    "name": "programmez",
+    "pageCnt": 50,
+    "weightGrm": 12.3,
+    "subject": "code generation",
+    "isCollector": true,
+    "authors": [
+      {
+        "name": "Dupont",
+        "firstname": "Thomas",
+        "age": 18
+      },
+      {
+        "name": "Digory",
+        "firstname": "Cedric",
+        "lastname": "Heric"
+      }
+    ],
+    "publicationDate": "2001-12-15T02:59:43.100Z",
+    "gift": null
+  },
+  "show": {
+    "name": "question pour un champion"
+  }
+}
