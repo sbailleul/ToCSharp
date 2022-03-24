@@ -3,11 +3,11 @@
 This project offer a simple way to generate classes definition from yaml and json files. Once you installed the tool you
 can see available options with the following command :
 
-##Global
+## Global
 ````shell
 to-csharp --help
 ````
-##Local
+## Local
 ````shell
 dotnet tool run to-csharp -- --help
 ````
