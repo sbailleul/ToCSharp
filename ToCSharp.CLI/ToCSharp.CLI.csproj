@@ -18,6 +18,4 @@
     <ItemGroup>
       <ProjectReference Include="..\ToCSharp.Core\ToCSharp.Core.csproj" />
     </ItemGroup>
-
-
 </Project>
